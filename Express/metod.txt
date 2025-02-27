@@ -1,0 +1,5 @@
+
+
+api/user-> always user brower server  side rendarting data
+/user -> using api send data json formate clinet side nijer esa moto nijer chaidaonujai jai react , angukar, native fullter nijer mot 
+         kore render kore nibe

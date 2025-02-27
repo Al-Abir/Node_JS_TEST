@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "jane.smith@example.com",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "first_name": "Michael",
+      "last_name": "Brown",
+      "email": "michael.brown@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "first_name": "Emily",
+      "last_name": "Davis",
+      "email": "emily.davis@example.com",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "first_name": "David",
+      "last_name": "Wilson",
+      "email": "david.wilson@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "first_name": "Emma",
+      "last_name": "Taylor",
+      "email": "emma.taylor@example.com",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "first_name": "Daniel",
+      "last_name": "Anderson",
+      "email": "daniel.anderson@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "first_name": "Sophia",
+      "last_name": "Thomas",
+      "email": "sophia.thomas@example.com",
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "first_name": "Matthew",
+      "last_name": "Jackson",
+      "email": "matthew.jackson@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": 10,
+      "first_name": "Olivia",
+      "last_name": "White",
+      "email": "olivia.white@example.com",
+      "gender": "Female"
+    }
+  ]
+  
